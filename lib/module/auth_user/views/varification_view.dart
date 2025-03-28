@@ -123,7 +123,6 @@ class _VarificationViewState extends State<VarificationView> {
                                         CrossAxisAlignment.start,
                                     children: [
                                       PinCodeTextField(
-                                        // mainAxisAlignment: MainAxisAlignment.center,
                                         // backgroundColor: Color(0xfff1f5f6),
 
                                         appContext: context,
